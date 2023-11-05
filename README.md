@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NotMedoh
+- 👀 I’m interested in Javascript, Web Development, and furthering my knowledge in coding.
+- 🌱 I’m currently learning JS, SQL, Prisma.
+- 💞️ I’m looking to collaborate on nothing right now.
+- 📫 How to reach me: not rn.
